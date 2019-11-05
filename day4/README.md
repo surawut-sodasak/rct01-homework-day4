@@ -11,6 +11,10 @@ The end is in sight! Here's what to do next:
 
 ![](assets/bladerunner.png)
 
+## Before You Do Anything...
+
+Because this homework builds directly off in-class lab work, **replace the `react-film/src` folder here with the one from your Homework 3 repository!**
+
 ### Task 1: Adding the API Call
 
 In React, API calls are handled using the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) provided by modern browsers.
